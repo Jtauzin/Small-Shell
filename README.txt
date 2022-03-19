@@ -1,6 +1,6 @@
 Hello and welcome to the small shell program!
 
-To run this program, ensure that you have navigated to the directory that contains the Makefile and the main.c file contained in this zip folder.
+To run this program, ensure that you have navigated to the directory that contains the Makefile and the main.c file contained in this folder.
 
 
 After navigating to the directory where these files are located, enter the following into the terminal:
